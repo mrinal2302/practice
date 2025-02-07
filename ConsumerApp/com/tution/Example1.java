@@ -7,5 +7,6 @@ public class Example1 {
         System.out.println(a+b);
         System.out.println("Mrinal");
         System.out.println("Kumar");
+        System.out.println(b-a);
     }
 }
